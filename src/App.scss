@@ -38,7 +38,8 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background: url(../public/images/neon_sun_day.png) no-repeat center center fixed;
+
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -231,7 +232,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #463730;
 }
 
 .experience-icon {
@@ -315,7 +316,7 @@ header h1 {
 	top: 0;
 	margin: 0;
 	padding-right: 24px;
-	background: #313131;
+	background: #1F1F1F;
 	display: inline-block;
 	height: 42px;
 	line-height: 42px;
@@ -353,7 +354,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: url(../public/images/neon_sun_night1.png) no-repeat center center fixed;
 	padding-bottom: 5%;
 }
 
@@ -389,7 +390,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #422E25;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
