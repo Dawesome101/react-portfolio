@@ -39,6 +39,11 @@
           "level": "80"
         },
         {
+          "name": "Visual Studio",
+          "class": "devicon-visualstudio-plain",
+          "level": "80"
+        },
+        {
           "name": "React",
           "class": "devicon-react-original",
           "level": "85"
