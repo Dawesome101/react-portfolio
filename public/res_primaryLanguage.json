@@ -11,22 +11,24 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Solid Sky: Combat Controller",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "Solid Sky implements a player combat mode of which the player can toggle into at any time. It is complete with its own unique analog control system independent of the normal movement mode. The player character has full control of a functional, chainable attack system. There are literally dozens of attack combos classified by light, medium and heavy attack strings. Additionally, there are special moves and combo finishers such as the lunge kick, super kick, super punch, etc. The Animations themselves are selected from the Fighting Animset Pro asset available on the Unity Asset Store from the developer Kobold. The design, implementation, blending, animation controller, character controller and all its programming are my personal work.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/solidsky-combat/p1.jpg",
+          "images/portfolio/solidsky-combat/p2.jpg",
+          "images/portfolio/solidsky-combat/p3.jpg",
+          "images/portfolio/solidsky-combat/p4.jpg"
         ],
-        "url": "",
+        "url": "https://www.danawesome.com/projects.html",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-unity-original colored",
+            "name": "Unity"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
             "class": "devicon-csharp-plain",
@@ -35,42 +37,49 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Hammerspace: Neon Sun",
+        "startDate": "2016",
+        "description": "Hammerspace: Neon Sun is a VR implementation of the modified Voxeland game asset, a voxel-based terrain system with a destructible mesh. In other words, you can carve into the terrain or do the opposite by building onto it. The project is functional on both the Vive and the Oculus Rift.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/hammerspace-neonsun/p1.jpg",
+          "images/portfolio/hammerspace-neonsun/p2.jpg",
+          "images/portfolio/hammerspace-neonsun/p3.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://www.danawesome.com/projects.html",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-unity-original colored",
+            "name": "Unity"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+        
+      },
+      {
+        "title": "Sphoid: Physics Based Self Driving Car",
+        "startDate": "2016",
+        "description": "The physics based self driving car showcases AI controlling a vehicle around a simple obstacle course while attempting to reach its moving target. The vehicle detects the environment in real-time making wheel torque and steering angle adjustments in order to reach its dynamic destination. This means it will actively avoid collision while tracking and attempting to reach a moving target.",
+        "images": [
+          "images/portfolio/sphoid-selfdrive/p1.jpg",
+          "images/portfolio/sphoid-selfdrive/p2.jpg",
+          "images/portfolio/sphoid-selfdrive/p3.jpg"
+        ],
+        "url": "https://www.danawesome.com/projects.html",
+        "technologies": [
+          {
+            "class": "devicon-unity-original colored",
+            "name": "Unity"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
             "class": "devicon-csharp-plain",
