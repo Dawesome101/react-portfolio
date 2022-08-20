@@ -1,17 +1,22 @@
 {
     "basic_info": {
       "name": "Daniel Awesome",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Engineer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Dawesome101",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/daniel-awesome/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/DanAwesome101",
+          "class": "fab fa-twitter"
         }
       ],
       "image": "myProfile.jpg"
